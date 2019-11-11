@@ -49,7 +49,7 @@ favicon:
 
 # hexo-generator-feed required for rss support. Leave rss as blank to use site's feed link.
 # Set rss to false to disable feed link. Set rss to specific value if you have burned your feed already.
-rss:
+rss: 
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
@@ -62,7 +62,7 @@ footer:
     name: user
     # If you want to animate the icon, set it to true.
     animated: false
-    # Change the color of icon, using Hex Code.
+    # Change the color of icon, using Hex Code
     color: "#808080"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
