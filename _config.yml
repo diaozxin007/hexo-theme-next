@@ -193,7 +193,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/diaozxin007 || github
-  E-Mail: mailto:diaozxin@163.com.com || envelope
+  E-Mail: mailto:diaozxin@163.com || envelope
   zhihu: https://www.zhihu.com/people/diao-zheng-xin/activities || zhihu
   #GitHub: https://github.com/yourname || github
   #E-Mail: mailto:yourname@gmail.com || envelope
@@ -205,7 +205,7 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
-  #RSS: /atom.xml || rss
+  RSS: /atom.xml || rss
 
 social_icons:
   enable: true
